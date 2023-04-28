@@ -1,14 +1,11 @@
-package de.ralfb_web.model;
+package de.cf_web.model;
 
 import javafx.beans.property.BooleanProperty;
 import javafx.beans.property.SimpleBooleanProperty;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 
-/**
- * 
- * @author Ralf Boernemeier
- *
+
  */
 public class Model {
 
